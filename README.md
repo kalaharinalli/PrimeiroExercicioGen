@@ -1,0 +1,2 @@
+# PrimeiroExercicioGen
+Exercicio da generation
